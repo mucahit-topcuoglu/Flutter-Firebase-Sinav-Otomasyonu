@@ -38,7 +38,6 @@ Bu proje, öğretmenlerin sınav oluşturup yönetebileceği ve öğrencilerin b
 ## Öğrenci Paneli
 <p float="left">
   <img src="screenshots/ogrenci_ana.png" width="200" alt="Öğrenci Ana Sayfa"/>
-  <img src="screenshots/sinav_ekrani.png" width="200" alt="Sınav Ekranı"/>
   <img src="screenshots/sinav_ekran.png" width="200" alt="Sonuçlar"/>
 </p>
 
