@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840957277955",
+    "project_id": "sinavvt-b8514",
+    "storage_bucket": "sinavvt-b8514.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840957277955:android:955109267fcbdaf4849b36",
+        "android_client_info": {
+          "package_name": "com.example.sinavv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUV5FfgR89xC9NHLqUlR5ULFaBgVwBnDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
