@@ -24,21 +24,22 @@ Bu proje, öğretmenlerin sınav oluşturup yönetebileceği ve öğrencilerin b
 ## Giriş Ekranları
 <p float="left">
   <img src="screenshots/ogrenci_giris.png" width="200" alt="Öğrenci Giriş"/>
-  <img src="screenshots/ogretmen_giris.png" width="200" alt="Öğretmen Giriş"/>
+  <img src="screenshots/personel_giris.png" width="200" alt="Öğretmen Giriş"/>
 </p>
 
 ## Öğretmen Paneli
 <p float="left">
-  <img src="screenshots/ogretmen_anasayfa.png" width="200" alt="Öğretmen Ana Sayfa"/>
-  <img src="screenshots/soru_ekleme.png" width="200" alt="Soru Ekleme"/>
-  <img src="screenshots/sinav_olusturma.png" width="200" alt="Sınav Oluşturma"/>
+  <img src="screenshots/personel_ana.png" width="200" alt="Öğretmen Ana Sayfa"/>
+  <img src="screenshots/soru_ekle.png" width="200" alt="Soru Ekleme"/>
+  <img src="screenshots/sorular.png" width="200" alt="Sınav Oluşturma"/>
+  <img src="screenshots/notlar.png" width="200" alt="Sınav Oluşturma"/>
 </p>
 
 ## Öğrenci Paneli
 <p float="left">
-  <img src="screenshots/ogrenci_anasayfa.png" width="200" alt="Öğrenci Ana Sayfa"/>
+  <img src="screenshots/ogrenci_ana.png" width="200" alt="Öğrenci Ana Sayfa"/>
   <img src="screenshots/sinav_ekrani.png" width="200" alt="Sınav Ekranı"/>
-  <img src="screenshots/sonuclar.png" width="200" alt="Sonuçlar"/>
+  <img src="screenshots/sinav_ekran.png" width="200" alt="Sonuçlar"/>
 </p>
 
 ## Teknolojiler
