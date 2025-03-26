@@ -17,8 +17,14 @@ Bu proje, öğretmenlerin sınav oluşturup yönetebileceği ve öğrencilerin b
 - Geçmiş sınav sonuçlarını görüntüleme
 - Zamanlı sınav sistemi
 
-## Ekran Görüntüleri
+## Teknolojiler
 
+- Flutter
+- Firebase Authentication
+- Cloud Firestore
+- Google Fonts
+
+  
 # Ekran Görüntüleri
 
 ## Giriş Ekranları
@@ -41,12 +47,7 @@ Bu proje, öğretmenlerin sınav oluşturup yönetebileceği ve öğrencilerin b
   <img src="screenshots/sinav_ekran.png" width="200" alt="Sonuçlar"/>
 </p>
 
-## Teknolojiler
 
-- Flutter
-- Firebase Authentication
-- Cloud Firestore
-- Google Fonts
 
 ## Kurulum
 
